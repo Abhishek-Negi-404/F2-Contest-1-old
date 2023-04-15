@@ -1,1 +1,15 @@
-
+body{
+    text-align: center;
+}
+.container{
+    margin-top: 20vh;
+    display: grid;
+    gap: 20px;
+}
+button{
+    background-color: #414141;
+    width: 300px;
+    padding: 8px;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+}
