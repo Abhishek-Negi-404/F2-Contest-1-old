@@ -31,7 +31,7 @@ function PrintDeveloperbyForEach() {
 // Add Data Function-------------------------------------------------------------------------------------------------------------------------------------------
 function addData() {
   //Write your code here, just console.log
-  let newObj = { id: 4, name: "susan", age: "20", profession: "intern" };
+  let newObj = { id: 4, name: "abhishek", age: "21", profession: "intern" };
   arr.push(newObj);
   console.log(arr);
 }
@@ -53,9 +53,9 @@ function removeAdmin() {
 function concatenateArray() {
   //Write your code here, just console.log
   let arr2 = [
-    { id: 5, name: "swapnilC", age: "30", profession: "PROgrammer" },
-    { id: 6, name: "akshayG", age: "28", profession: "developer" },
-    { id: 7, name: "vidhiJ", age: "21", profession: "Manager" },
+    { id: 5, name: "aadarshUC", age: "23", profession: "Manager" },
+    { id: 6, name: "abdulRQ", age: "25", profession: "Programmer" },
+    { id: 7, name: "pooja", age: "20", profession: "developer" },
   ];
 
   let concatArray = arr.concat(arr2);
